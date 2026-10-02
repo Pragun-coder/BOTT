@@ -40,7 +40,7 @@
     "maxDelayMs": 60000
   },
   "statusServer": {
-    "enabled": true,
+    "enabled": false,
     "port": 8080
   },
   "logging": {
