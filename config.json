@@ -1,11 +1,11 @@
 {
   "server": {
-    "host": "ip_of_your_smp_server", 
+    "host": "awake.play.hosting", 
     "port": 42422,
-    "version": "1.21.4"
+    "version": "26.2"
   },
   "bot": {
-    "username": "aurora_assistant",
+    "username": "THIS_IS_A_BOT",
     "auth": "offline",
     "password": ""
   },
