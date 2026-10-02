@@ -1,7 +1,7 @@
 {
   "server": {
     "host": "awake.play.hosting", 
-    "port": 42422,
+    "port": 25857,
     "version": "26.2"
   },
   "bot": {
